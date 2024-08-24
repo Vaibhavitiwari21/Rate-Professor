@@ -1,0 +1,185 @@
+{
+    "Reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Computer Science",
+        "rating": 5,
+        "reviews": "Excellent professor! Very knowledgeable and approachable."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "rating": 4,
+        "reviews": "Great at explaining complex concepts but sometimes a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Physics",
+        "rating": 3,
+        "reviews": "Good professor, but the course content was quite difficult."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Chemistry",
+        "rating": 5,
+        "reviews": "Very organized and clear in teaching. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Sarah Miller",
+        "subject": "Biology",
+        "rating": 2,
+        "reviews": "Not very engaging, and the exams were tough."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "History",
+        "rating": 4,
+        "reviews": "Interesting lectures and fair grading."
+      },
+      {
+        "professor": "Dr. Linda Garcia",
+        "subject": "Economics",
+        "rating": 3,
+        "reviews": "Average experience. Some topics were hard to follow."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Philosophy",
+        "rating": 5,
+        "reviews": "Incredibly thought-provoking lectures and discussions."
+      },
+      {
+        "professor": "Dr. Patricia Martinez",
+        "subject": "Literature",
+        "rating": 4,
+        "reviews": "Engaging lectures but lots of reading assignments."
+      },
+      {
+        "professor": "Dr. Mark Thompson",
+        "subject": "Sociology",
+        "rating": 4,
+        "reviews": "Very informative and cares about student success."
+      },
+      {
+        "professor": "Dr. Elizabeth White",
+        "subject": "Political Science",
+        "rating": 3,
+        "reviews": "Good professor but the course material was dense."
+      },
+      {
+        "professor": "Dr. Paul Harris",
+        "subject": "Psychology",
+        "rating": 5,
+        "reviews": "Fascinating course and very supportive professor."
+      },
+      {
+        "professor": "Dr. Barbara Clark",
+        "subject": "Anthropology",
+        "rating": 2,
+        "reviews": "Difficult to stay engaged during lectures."
+      },
+      {
+        "professor": "Dr. Steven Lewis",
+        "subject": "Environmental Science",
+        "rating": 4,
+        "reviews": "Great professor with a passion for the subject."
+      },
+      {
+        "professor": "Dr. Mary Hall",
+        "subject": "Art History",
+        "rating": 5,
+        "reviews": "Very knowledgeable and passionate about the subject."
+      },
+      {
+        "professor": "Dr. Richard Young",
+        "subject": "Geography",
+        "rating": 3,
+        "reviews": "Interesting course but a bit disorganized."
+      },
+      {
+        "professor": "Dr. Jennifer Walker",
+        "subject": "Music",
+        "rating": 5,
+        "reviews": "Inspiring and highly talented professor."
+      },
+      {
+        "professor": "Dr. Charles Robinson",
+        "subject": "Statistics",
+        "rating": 4,
+        "reviews": "Clear explanations and fair exams."
+      },
+      {
+        "professor": "Dr. Susan Harris",
+        "subject": "Physics",
+        "rating": 3,
+        "reviews": "Challenging course, but the professor was helpful."
+      },
+      {
+        "professor": "Dr. Joseph Allen",
+        "subject": "Philosophy",
+        "rating": 5,
+        "reviews": "Insightful and encourages deep thinking."
+      },
+      {
+        "professor": "Dr. Carol Nelson",
+        "subject": "Linguistics",
+        "rating": 4,
+        "reviews": "Very engaging and knowledgeable in the subject."
+      },
+      {
+        "professor": "Dr. Thomas King",
+        "subject": "Engineering",
+        "rating": 3,
+        "reviews": "Tough course, but the professor is fair."
+      },
+      {
+        "professor": "Dr. Nancy Scott",
+        "subject": "Psychology",
+        "rating": 4,
+        "reviews": "Engaging lectures and supportive during office hours."
+      },
+      {
+        "professor": "Dr. George Evans",
+        "subject": "History",
+        "rating": 2,
+        "reviews": "Lectures were a bit dull, and grading was harsh."
+      },
+      {
+        "professor": "Dr. Karen Adams",
+        "subject": "Economics",
+        "rating": 5,
+        "reviews": "Very clear and effective teaching style."
+      },
+      {
+        "professor": "Dr. Donald Baker",
+        "subject": "Chemistry",
+        "rating": 3,
+        "reviews": "Interesting material, but the course was difficult."
+      },
+      {
+        "professor": "Dr. Lisa Perez",
+        "subject": "Mathematics",
+        "rating": 4,
+        "reviews": "Good professor with clear explanations."
+      },
+      {
+        "professor": "Dr. Kevin Brooks",
+        "subject": "Computer Science",
+        "rating": 5,
+        "reviews": "Excellent at breaking down complex topics."
+      },
+      {
+        "professor": "Dr. Brenda Collins",
+        "subject": "Biology",
+        "rating": 4,
+        "reviews": "Very passionate and thorough in her teaching."
+      },
+      {
+        "professor": "Dr. Jason Reed",
+        "subject": "Sociology",
+        "rating": 3,
+        "reviews": "Decent professor, but the lectures were sometimes monotonous."
+      }
+    ]
+  }
+  
